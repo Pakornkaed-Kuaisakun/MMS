@@ -18,8 +18,8 @@ Ex. You install xampp in folder C, you must open this C:/xampp/htdocs/
 ### Step 3 ###
 Open [Apache] and [Mysql] in xampp.
 Then open this url: http://localhost/phpmyadmin/ and login to phpmyadmin with username and password.
-# Default username: root
-# Default password:         - [empty]
+Default username: root
+Default password:         - [empty]
 
 ### Step 4 ###
 insert database (mms-updated.sql) from DATABASE folder to the phpmyadmin.
