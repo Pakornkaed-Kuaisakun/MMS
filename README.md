@@ -34,6 +34,7 @@ insert database (mms-updated.sql) from DATABASE folder to the phpmyadmin.
 
 ### Step 5 ###
 Test project, enter this url: https://localhost/MMS/Login
+
 with Username: [test] and Password: [123]
 
 ### Step 6 ###
